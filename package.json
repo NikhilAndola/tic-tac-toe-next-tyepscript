@@ -1,5 +1,5 @@
 {
-  "name": "next-templat",
+  "name": "next-template",
   "private": true,
   "scripts": {
     "dev": "next dev",
